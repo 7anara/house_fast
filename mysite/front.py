@@ -5,7 +5,7 @@ import requests
 api_url = 'http://127.0.0.1:8000/predict/'
 
 
-nei_list = ['Blueste', 'BrDale', 'BrkSide', 'ClearCr', 'CollgCr',
+new_list = ['Blueste', 'BrDale', 'BrkSide', 'ClearCr', 'CollgCr',
             'Crawfor', 'Edwards', 'Gilbert', 'IDOTRR', 'MeadowV',
             'Mitchel', 'NAmes', 'NPkVill', 'NWAmes', 'NoRidge',
             'NridgHt', 'OldTown', 'SWISU', 'Sawyer', 'SawyerW',
